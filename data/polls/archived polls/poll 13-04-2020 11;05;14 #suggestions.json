@@ -1,0 +1,39 @@
+{
+    "question": "What should I make next?",
+    "author": "Moose#6093",
+    "authorID": 474037926641008640,
+    "started": "13-04-2020 11;05;14",
+    "limit": 2,
+    "total votes": 2,
+    "options": [
+        {
+            "name": "BoopBoop 2: Electric boogaloo",
+            "votes": 1
+        },
+        {
+            "name": "Don't make anything new and fix this bot!",
+            "votes": 0
+        },
+        {
+            "name": "Nothing. Everything made past this point is in vain due to how perfect this creation of a bot is",
+            "votes": 0
+        },
+        {
+            "name": "Make another modpack",
+            "votes": 1
+        }
+    ],
+    "voters": [
+        {
+            "name": "Moose#6093",
+            "id": 474037926641008640,
+            "choices": [
+                1,
+                4
+            ]
+        }
+    ],
+    "finished": "13-04-2020 11;06;34",
+    "Ending Author": "Moose#6093",
+    "Ending AuthorID": 474037926641008640
+}

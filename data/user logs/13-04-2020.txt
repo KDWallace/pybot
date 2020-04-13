@@ -1,0 +1,12 @@
+10:58:34¦ Moose#6093 has created a new poll: "Does the .startpoll command work?" in #general with options: ['Yes, flawlessly', 'Yes, but it has many "features"', "Nope, it's basically broken"]
+10:58:47¦ Moose#6093 voted for "Yes, but it has many "features"" in poll for "Does the .startpoll command work?" on channel #general
+10:59:04¦ Moose#6093 cleared 1 message from channel #general
+11:00:12¦ Moose#6093 cleared 2 messages from channel #general
+11:00:35¦ Moose#6093 changed the status to playing with fire
+11:05:14¦ Moose#6093 has created a new poll: "What should I make next?" in #suggestions with options: ['BoopBoop 2: Electric boogaloo', "Don't make anything new and fix this bot!", 'Nothing. Everything made past this point is in vain due to how perfect this creation of a bot is', 'Make another modpack']
+11:05:27¦ Moose#6093 voted for "BoopBoop 2: Electric boogaloo" in poll for "What should I make next?" on channel #suggestions
+11:05:42¦ Moose#6093 voted for "Make another modpack" in poll for "What should I make next?" on channel #suggestions
+11:06:19¦ Moose#6093 cleared 9 messages from channel #suggestions
+11:06:24¦ Moose#6093 cleared 1 message from channel #suggestions
+11:06:34¦ Moose#6093 has ended the poll for What should I make next? in #suggestions
+11:06:55¦ Moose#6093 cleared 3 messages from channel #suggestions

@@ -1,0 +1,3 @@
+The file "command locations.json" is not automatically generated and neither is the data inside. This is entered manually however commands will be added to change this in the future
+The data inside is an example of the formatting for certain commands that can only be used in certain channels. This can be added to a command by using the has_channel_perms found in main.py
+The "server","name" and "category" are not necessary. This is simply for ease of use for a user. The program does not use anything other than the "id"...so far

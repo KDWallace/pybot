@@ -1,0 +1,31 @@
+{
+    "question": "Does the .startpoll command work?",
+    "author": "Moose#6093",
+    "authorID": 474037926641008640,
+    "started": "13-04-2020 10;58;34",
+    "limit": 1,
+    "total votes": 1,
+    "options": [
+        {
+            "name": "Yes, flawlessly",
+            "votes": 0
+        },
+        {
+            "name": "Yes, but it has many \"features\"",
+            "votes": 1
+        },
+        {
+            "name": "Nope, it's basically broken",
+            "votes": 0
+        }
+    ],
+    "voters": [
+        {
+            "name": "Moose#6093",
+            "id": 474037926641008640,
+            "choices": [
+                2
+            ]
+        }
+    ]
+}
